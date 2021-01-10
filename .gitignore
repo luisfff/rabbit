@@ -1,0 +1,37 @@
+*.orig
+*.*~
+*.Cache
+*.csproj.user
+*.log
+*.sln.startup.json
+*.suo
+*.swp
+*.tfignore
+*.user
+*.vspscc
+*.vssscc
+connect.lock
+libpeerconnection.log
+testem.log
+.cr/
+.vs/
+bin/
+obj/
+packages/
+tmp/
+.idea/
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# frontend
+node_modules/
+
