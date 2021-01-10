@@ -1,0 +1,2 @@
+// run rabbitmq in container
+docker stack deploy -c docker-compose.yml rabbitmq
