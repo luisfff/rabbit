@@ -1,4 +1,4 @@
-# Basic Messaging Application
+# Basic Messaging Application (RabbitMQ)
 
 A messaging application built using RabbitMQ in Node.js.
 
